@@ -1,6 +1,6 @@
 ## Injecting domain knowledge in language models for task-oriented dialogue systems
 
-This project contains the code to reproduce the results in *Injecting domain knowledge in language models for task-oriented dialogue systems* 
+This project contains the code to reproduce the results in:
 
 > [EMNLP 2022] [Injecting domain knowledge in language models for task-oriented dialogue systems](https://www.amazon.science/publications/injecting-domain-knowledge-in-language-models-for-task-oriented-dialogue-systems)
 
