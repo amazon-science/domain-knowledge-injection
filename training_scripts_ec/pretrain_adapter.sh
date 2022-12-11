@@ -1,0 +1,28 @@
+python3 pretrain_adapter.py \
+        --data_dir ./codebase/data_preprocessing/db_facts/mwoz_atomic_facts \
+        --model_type bart \
+        --model_name facebook/bart-large \
+        --output_dir ./models \
+        --active_domains restaurant \
+        --fact_format atomic_and_composite_facts \
+        --adapter_size 768 \
+        --adapter_num_heads 12 \
+        --adapter_num_layers 2 \
+        --adapter_list enc-12,dec-12 \
+        --do_eval \
+        --do_train \
+        --plm_only \
+        --evaluate_during_training \
+        --per_gpu_train_batch_size 8 \
+        --per_gpu_eval_batch_size 8 \
+        --gradient_accumulation_steps 1 \
+        --num_train_epochs 1000 \
+        --max_seq_length 128 \
+        --max_gen_length 128 \
+        --learning_rate 3e-5 \
+        --warmup_steps 0 \
+        --save_steps 1000 \
+        --eval_epochs 10 \
+        --save_total_limit 20 \
+        --patience 10 \
+        --no_encoder_integration

@@ -1,0 +1,34 @@
+certifi==2021.5.30 # Mozilla Public License 2.0 (MPL 2.0) (MPL-2.0)
+charset-normalizer==2.0.3 # MIT
+click==8.0.1 # BSD-3-Clause
+dataclasses==0.8 # Apache Software License (Apache)
+filelock==3.0.12 # Unlicense
+huggingface-hub==0.0.12 # Apache Software License (Apache)
+idna==3.2 # BSD-3-Clause
+importlib-metadata==4.6.1 # Apache Software License
+joblib==1.0.1 # BSD
+nltk==3.6.2 #  Apache Software License (Apache License, Version 2.0)
+numpy==1.19.5 # BSD
+packaging==21.0 # BSD-2-Clause or Apache-2.0
+Pillow==8.3.1 #  Historical Permission Notice and Disclaimer (HPND) (HPND)
+pkg_resources==0.0.0
+portalocker==2.0.0 # PSF
+protobuf==3.17.3 # 3-Clause BSD License
+pyparsing==2.4.7 #  MIT License
+PyYAML==5.4.1 # MIT License (MIT)
+regex==2021.7.6 #  Apache Software License (Apache Software License)
+requests==2.26.0 # Apache Software License (Apache 2.0)
+sacrebleu==1.5.1 # Apache Software License (Apache License 2.0)
+sacremoses==0.0.45 # OSI Approved :: MIT License
+six==1.16.0 # MIT License (MIT)
+tensorboardX==2.4 #  MIT License (MIT license)
+tokenizers==0.10.3 # Apache Software License (Apache License 2.0)
+torch==1.9.0 # BSD License (BSD-3)
+torchaudio==0.9.0 # BSD License
+torchvision==0.10.0 # BSD
+tqdm==4.61.2 # MIT License, Mozilla Public License 2.0 (MPL 2.0) (MPLv2.0, MIT Licences)
+transformers==4.9.1 # Apache Software License (Apache)
+typing-extensions==3.10.0.0 # Python Software Foundation License
+urllib3==1.26.6 # MIT License (MIT)
+word2number==1.1 # MIT License (The MIT License (MIT) )
+zipp==3.5.0 # MIT License
