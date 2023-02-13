@@ -23,7 +23,7 @@ sacremoses==0.0.45 # OSI Approved :: MIT License
 six==1.16.0 # MIT License (MIT)
 tensorboardX==2.4 #  MIT License (MIT license)
 tokenizers==0.10.3 # Apache Software License (Apache License 2.0)
-torch==1.9.0 # BSD License (BSD-3)
+torch==1.13.1 # BSD License (BSD-3)
 torchaudio==0.9.0 # BSD License
 torchvision==0.10.0 # BSD
 tqdm==4.61.2 # MIT License, Mozilla Public License 2.0 (MPL 2.0) (MPLv2.0, MIT Licences)
