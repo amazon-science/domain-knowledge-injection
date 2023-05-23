@@ -17,7 +17,7 @@ protobuf==3.17.3 # 3-Clause BSD License
 pyparsing==2.4.7 #  MIT License
 PyYAML==5.4.1 # MIT License (MIT)
 regex==2021.7.6 #  Apache Software License (Apache Software License)
-requests==2.26.0 # Apache Software License (Apache 2.0)
+requests==2.31.0 # Apache Software License (Apache 2.0)
 sacrebleu==1.5.1 # Apache Software License (Apache License 2.0)
 sacremoses==0.0.45 # OSI Approved :: MIT License
 six==1.16.0 # MIT License (MIT)
